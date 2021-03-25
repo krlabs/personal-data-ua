@@ -138,3 +138,5 @@
 2. Закон України Про затвердження документів у сфері захисту персональних даних - https://zakon.rada.gov.ua/laws/show/v1_02715-14#Text
 3. Закони України Про Телекомунікації - https://zakon.rada.gov.ua/laws/show/1280-15#Text
 4. Закон України Про доступ до публічної інформації - https://zakon.rada.gov.ua/laws/show/2939-17#Text
+5. Відеоспостереження та право на приватність - https://www.ombudsman.gov.ua/ua/all-news/pr/zastosuvannya-texnolog%d1%96%d1%97-rozp%d1%96znavannya-oblichchya-(%d1%94vropejskij-vektor)/
+6. 
